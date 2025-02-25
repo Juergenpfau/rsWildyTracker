@@ -1,58 +1,58 @@
 [
     {
         "event": "Spider Swarm",
-        "time": "07:00"
-    },
-    {
-        "event": "Unnatural Outcrop",
-        "time": "08:00"
-    },
-    {
-        "event": "Stryke the Wyrm Special",
-        "time": "09:00"
-    },
-    {
-        "event": "Demon Stragglers",
-        "time": "10:00"
-    },
-    {
-        "event": "Butterfly Swarm",
         "time": "11:00"
     },
     {
+        "event": "Stryke the Wyrm Special",
+        "time": "23:00"
+    },
+    {
+        "event": "Demon Stragglers",
+        "time": "00:00"
+    },
+    {
+        "event": "Butterfly Swarm",
+        "time": "01:00"
+    },
+    {
         "event": "King Black Dragon Rampage Special",
-        "time": "12:00"
+        "time": "02:00"
     },
     {
         "event": "Forgotten Soldiers",
-        "time": "13:00"
-    },
-    {
-        "event": "Surprising Seedlings",
-        "time": "14:00"
-    },
-    {
-        "event": "Hellhound Pack",
-        "time": "15:00"
-    },
-    {
-        "event": "Lost Souls",
         "time": "03:00"
     },
     {
-        "event": "Ramokee Incursion",
+        "event": "Surprising Seedlings",
         "time": "04:00"
     },
     {
-        "event": "Displaced Energy",
+        "event": "Hellhound Pack",
         "time": "05:00"
     },
     {
-        "event": "Evil Bloodwood Tree Special",
+        "event": "Infernal Star Special",
         "time": "06:00"
     },
     {
-        "event": "Infernal Star Special",
-        "time": "02:00"
+        "event": "Lost Souls",
+        "time": "07:00"
+    },
+    {
+        "event": "Ramokee Incursion",
+        "time": "08:00"
+    },
+    {
+        "event": "Displaced Energy",
+        "time": "09:00"
+    },
+    {
+        "event": "Evil Bloodwood Tree Special",
+        "time": "10:00"
+    },
+    {
+        "event": "Unnatural Outcrop",
+        "time": "22:00"
     }
 ]
